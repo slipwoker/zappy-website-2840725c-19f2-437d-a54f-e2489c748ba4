@@ -1,0 +1,82 @@
+# שקוישי — Generative Engine Optimization Map
+
+> Shkuishi is a squash-related business or brand. The name 'שקוישי' appears to be a Hebrew phonetic adaptation of 'squashy' or a branded name for a squash club, academy, or related sports venture. The brand likely revolves around the sport of squash, catering to players or enthusiasts.
+
+---
+
+## Pages
+
+### בית
+https://-2840725c.zappy5.app
+ברוכים הבאים לשקוישי, הבית שלך לסקווש מקצועי. הצטרף לקהילת שחקנים נלהבת, שפר את המשחק שלך עם הציוד הטוב ביותר וגלה תחרויות מרתקות. התחל את המסע שלך עוד היום!
+
+### תוכניות
+https://-2840725c.zappy5.app/programs
+שדרג את כישורי הסקווש שלך עם תוכניות האימון המגוונות של שקוישי. ממתחילים ועד מקצוענים, מצא את המסלול המושלם עבורך עם מאמנים מובילים. הצטרף עכשיו והפוך לאלוף!
+
+### אודות
+https://-2840725c.zappy5.app/about
+שקוישי הוא הרבה יותר ממותג – אנחנו חזון להפיץ את אהבת הסקווש בישראל. גלו את הסיפור שלנו, הערכים והמחויבות למצוינות בספורט. בואו להיות חלק מהמהפכה!
+
+### צור קשר
+https://-2840725c.zappy5.app/contact
+יש לך שאלה על סקווש? רוצה להצטרף למועדון או לקבל ייעוץ על המחבט המושלם? צור קשר עם צוות שקוישי עוד היום וקבל מענה מהיר ומקצועי. אנחנו מחכים לך!
+
+### תודה שפניתם אלינו
+https://-2840725c.zappy5.app/thank-you
+שקוישי - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2840725c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2840725c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2840725c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-2840725c.zappy5.app/contact
+- Endpoint: https://-2840725c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שקוישי
+Shkuishi is a squash-related business or brand. The name 'שקוישי' appears to be a Hebrew phonetic adaptation of 'squashy' or a branded name for a squash club, academy, or related sports venture. The brand likely revolves around the sport of squash, catering to players or enthusiasts.
+
+## Target Audience
+- חובבי סקווש
+- אנשים ממוקדי בריאות
+- תכניות אימון לנוער
+
+## Industry
+Sports / Squash
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2840725c.zappy5.app/sitemap.xml
+- Robots: https://-2840725c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2840725c.zappy5.app/llms-full.txt
