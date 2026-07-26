@@ -2,13 +2,13 @@
 
 Shkuishi is a squash-related business or brand. The name 'שקוישי' appears to be a Hebrew phonetic adaptation of 'squashy' or a branded name for a squash club, academy, or related sports venture. The brand likely revolves around the sport of squash, catering to players or enthusiasts.
 
-Source: https://-2840725c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את עולם הסקווש המקצועי — שקוישי
 
-URL: https://-2840725c.zappy5.app
+URL: https://example.com
 Description: ברוכים הבאים לשקוישי, הבית שלך לסקווש מקצועי. הצטרף לקהילת שחקנים נלהבת, שפר את המשחק שלך עם הציוד הטוב ביותר וגלה תחרויות מרתקות. התחל את המסע שלך עוד היום!
 
 גלה את עולם הסקווש המקצועי — שקוישי
@@ -383,7 +383,7 @@ Description: ברוכים הבאים לשקוישי, הבית שלך לסקוו�
 
 ## תוכניות אימון שישדרגו את המשחק שלך — שקוישי
 
-URL: https://-2840725c.zappy5.app/programs
+URL: https://example.com/programs
 Description: שדרג את כישורי הסקווש שלך עם תוכניות האימון המגוונות של שקוישי. ממתחילים ועד מקצוענים, מצא את המסלול המושלם עבורך עם מאמנים מובילים. הצטרף עכשיו והפוך לאלוף!
 
 תוכניות אימון שישדרגו את המשחק שלך — שקוישי
@@ -833,7 +833,7 @@ Description: שדרג את כישורי הסקווש שלך עם תוכניות 
 
 ## הכירו את הלב הפועם של הסקווש — שקוישי
 
-URL: https://-2840725c.zappy5.app/about
+URL: https://example.com/about
 Description: שקוישי הוא הרבה יותר ממותג – אנחנו חזון להפיץ את אהבת הסקווש בישראל. גלו את הסיפור שלנו, הערכים והמחויבות למצוינות בספורט. בואו להיות חלק מהמהפכה!
 
 הכירו את הלב הפועם של הסקווש — שקוישי
@@ -1224,7 +1224,7 @@ Description: שקוישי הוא הרבה יותר ממותג – אנחנו ח�
 
 ## צור קשר ותתחיל לנצח במגרש — שקוישי
 
-URL: https://-2840725c.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על סקווש? רוצה להצטרף למועדון או לקבל ייעוץ על המחבט המושלם? צור קשר עם צוות שקוישי עוד היום וקבל מענה מהיר ומקצועי. אנחנו מחכים לך!
 
 צור קשר ותתחיל לנצח במגרש — שקוישי
@@ -1640,7 +1640,7 @@ Description: יש לך שאלה על סקווש? רוצה להצטרף למוע�
 
 ## מדיניות פרטיות
 
-URL: https://-2840725c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1898,7 +1898,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-2840725c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2165,7 +2165,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-2840725c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2451,7 +2451,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-2840725c.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: שקוישי - תודה שפניתם אלינו
 
 תודה שפניתם אלינו

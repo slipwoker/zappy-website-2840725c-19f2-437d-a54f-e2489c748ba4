@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-2840725c.zappy5.app
+https://example.com
 ברוכים הבאים לשקוישי, הבית שלך לסקווש מקצועי. הצטרף לקהילת שחקנים נלהבת, שפר את המשחק שלך עם הציוד הטוב ביותר וגלה תחרויות מרתקות. התחל את המסע שלך עוד היום!
 
 ### תוכניות
-https://-2840725c.zappy5.app/programs
+https://example.com/programs
 שדרג את כישורי הסקווש שלך עם תוכניות האימון המגוונות של שקוישי. ממתחילים ועד מקצוענים, מצא את המסלול המושלם עבורך עם מאמנים מובילים. הצטרף עכשיו והפוך לאלוף!
 
 ### אודות
-https://-2840725c.zappy5.app/about
+https://example.com/about
 שקוישי הוא הרבה יותר ממותג – אנחנו חזון להפיץ את אהבת הסקווש בישראל. גלו את הסיפור שלנו, הערכים והמחויבות למצוינות בספורט. בואו להיות חלק מהמהפכה!
 
 ### צור קשר
-https://-2840725c.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על סקווש? רוצה להצטרף למועדון או לקבל ייעוץ על המחבט המושלם? צור קשר עם צוות שקוישי עוד היום וקבל מענה מהיר ומקצועי. אנחנו מחכים לך!
 
 ### תודה שפניתם אלינו
-https://-2840725c.zappy5.app/thank-you
+https://example.com/thank-you
 שקוישי - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-2840725c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-2840725c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-2840725c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-2840725c.zappy5.app/contact
-- Endpoint: https://-2840725c.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Sports / Squash
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-2840725c.zappy5.app/sitemap.xml
-- Robots: https://-2840725c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-2840725c.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
